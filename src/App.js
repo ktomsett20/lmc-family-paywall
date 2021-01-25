@@ -21,6 +21,10 @@ function App() {
       <AboutFamilySection
         title="Section 2"
       />
+
+      <div>
+        <p>Hello </p>
+      </div>
     </div>
   );
 }
